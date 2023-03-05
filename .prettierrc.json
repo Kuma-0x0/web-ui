@@ -1,9 +1,9 @@
 {
     "bracketSameLine": false,
     "endOfLine": "crlf",
-    "printWidth": 80,
+    "printWidth": 100,
     "semi": true,
-    "singleAttributePerLine": true,
+    "singleAttributePerLine": false,
     "singleQuote": true,
     "trailingComma": "all"
 }
