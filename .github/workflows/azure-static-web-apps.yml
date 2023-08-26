@@ -1,3 +1,5 @@
+# base on
+# https://learn.microsoft.com/en-us/azure/static-web-apps/build-configuration?tabs=github-actions
 name: Azure Static Web Apps CI/CD
 
 on:
